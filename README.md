@@ -16,7 +16,6 @@ Using the **K-Means Clustering** algorithm in Python, the project identifies dis
 - [⚙️ Implementation Steps](#%EF%B8%8F-implementation-steps)
 - [📊 Results](#-results)
 - [🚀 How to Run](#-how-to-run)
-- [📜 License](#-license)
 
 ---
 
