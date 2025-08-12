@@ -43,7 +43,7 @@ Customer behavior is rarely uniform. Businesses can benefit by:
 
 ## 🧠 What is K-Means Clustering?
 
-**K-Means Clustering** is an **unsupervised machine learning algorithm** used to partition data into *K* distinct, non-overlapping clusters.  
+**K-Means Clustering** is an **unsupervised machine learning algorithm** used to partition data into *K* distinct, non-overlapping clusters. It selects random values from the data and forms clusters assigned. The closest values from the centre of each cluster were taken to update the cluster and reshape the plot (just like k-NN). The closest values are based on Euclidean Distance.
 
 **How it works:**
 1. Choose the number of clusters (*K*).
